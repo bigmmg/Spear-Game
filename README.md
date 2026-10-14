@@ -1,4 +1,4 @@
-**Spear Game**
+# **Spear Game**
 
 This is a simple recreation of the Undertale green soul minigame seen when fighting against Undyne.
 
